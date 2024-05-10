@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Aps Redes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Aps_Redes_jar</output-path>
+    <root id="archive" name="Aps Redes.jar">
+      <element id="module-output" name="Aps Redes" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Aps 5 Semestre/lib/mysql-connector-j-8.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
